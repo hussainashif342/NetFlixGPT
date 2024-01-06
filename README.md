@@ -5,3 +5,4 @@
         Trailer in background
         Title&Discription
         Movie seggestion 
+GPT Search
