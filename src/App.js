@@ -1,7 +1,9 @@
 import React from 'react'
+import Boady from './components/Boady'
 
 export const App = () => {
   return (
-    <div className='text-3xl font-bold text-green-800'>Netflix</div>
+   <Boady/>  
+
   )
 }
